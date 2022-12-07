@@ -4,4 +4,5 @@ body {
 
 #clock {
   letter-spacing: 1px;
+  text-shadow: 0 0 3vh white;
 }
